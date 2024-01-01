@@ -1,14 +1,15 @@
-# Reasearch article summerization bot
+# Research article summarization bot
 
-Quickly summarize the content and get the information you need in **real-time** from arXiv, a free distribution service and an open-access archive over millions of scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.
+Quickly summarize the content and get the information you need in **real-time** from arXiv, a free distribution service and an open-access archive over millions of scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering, and systems science, and economics.
 
 ## Demo
 
 See how the tool works:
 
-![Reasearch article summerization demo]()
+![Research article summarization demo](https://github.com/remyakommadath/RAG_based_LLM/assets/68229813/5b62eec8-b12d-4530-a66b-69872d5dfa16)
 
-This tool access multiple research articles from *arXiv* based on the provided **keyword** and summerizes the related content
+
+This tool accesses multiple research articles from *arXiv* based on the provided **keyword** and summarizes the related content
 
 ## Run the tool from the source
 
@@ -26,13 +27,13 @@ Then, follow the easy steps to install and get started using the sample app.
 This is done with the `git clone` command followed by the URL of the repository:
 
 ```bash
-git clone https://github.com/pathway-labs/dropbox-ai-chat
+git clone https://github.com/remyakommadath/RAG_based_LLM.git
 ```
 
 Next,  navigate to the project folder:
 
 ```bash
-cd dropbox-ai-chat
+cd RAG_based_LLM
 ```
 
 #### Step 2: Set environment variables
@@ -51,7 +52,7 @@ TEMPERATURE=0.0
 Research_folder_PATH="./Research_article_search/Documents"
 ```
 
-Replace Research_folder_PATH with your local Reasearch folder path and optionally, you customize other values.
+Replace Research_folder_PATH with your local Research folder path and optionally, you customize other values.
 
 #### Step 3 (Optional): Create a new virtual environment
 
