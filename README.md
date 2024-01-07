@@ -82,3 +82,7 @@ python main.py
 
 You can run the UI separately by running Streamlit app
 `streamlit run RAS_ui.py` command. It connects to the Pathway's backend API automatically and you will see the UI frontend is running on your browser.
+
+#### Sample Example
+Try the following example and test your output
+![Sample input and LLM output](https://github.com/remyakommadath/RAG_based_LLM/assets/68229813/adfba39b-76ea-4070-8ac2-63eba2e55c11)
