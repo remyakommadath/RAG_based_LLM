@@ -6,7 +6,7 @@ Quickly summarize the content and get the information you need in **real-time** 
 
 See how the tool works:
 
-![Research article summarization demo](https://github.com/remyakommadath/RAG_based_LLM/assets/68229813/5b62eec8-b12d-4530-a66b-69872d5dfa16)
+[! Research article summarization demo](https://github.com/remyakommadath/RAG_based_LLM/assets/68229813/5b62eec8-b12d-4530-a66b-69872d5dfa16)
 
 
 This tool accesses multiple research articles from *arXiv* based on the provided **keyword** and summarizes the related content
